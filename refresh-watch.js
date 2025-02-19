@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Page Refresh Time Tracker
-// @namespace    http://tampermonkey.net/
+// @name         refresh-watch
+// @namespace    https://github.com/RKeaves
 // @version      1.2
 // @description  Display last refresh time and a live counter on the bottom right of specific pages. Updates on actual page refresh.
 // @author       RKeaves
@@ -15,7 +15,6 @@
 // @grant        none
 // @license MIT
 // ==/UserScript==
-// https://github.com/RKeaves
 
 (function () {
     'use strict';
