@@ -24,14 +24,14 @@ easily add more trackers to the tamper monkey script by replacing the url and ad
 ```
 
 ## Supported Websites
-- yu-scene.net
-- privatesilverscreen.cc
 - capybarabr.com
-- locadora.cc
-- theldu.to
 - fearnopeer.com
-- seedpool.org
+- locadora.cc
 - onlyencodes.cc
+- privatesilverscreen.cc
+- seedpool.org
+- theldu.to
+- yu-scene.net
 
 ---
 
