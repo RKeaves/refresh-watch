@@ -12,8 +12,8 @@ A userscript that displays the last page refresh time and a live counter on supp
 - Dark semi-transparent background
 
 ## Installation
-1. Install [Tampermonkey](https://www.tampermonkey.net/) extension
-2. [Click here to install script](https://raw.githubusercontent.com/RKeaves/refresh-watch/refs/heads/main/refresh-watch.js)
+1. <a href="https://www.tampermonkey.net/" target="_blank">Install Tampermonkey.</a>
+2. <a href="https://raw.githubusercontent.com/RKeaves/refresh-watch/refs/heads/main/refresh-watch.js" target="_blank">Install the script.</a>
 
 # tamper monkey tracker instructions
 
